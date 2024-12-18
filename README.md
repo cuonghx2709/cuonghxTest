@@ -1,4 +1,4 @@
 # cuonghxTest
 
 cuonghx
-hotfix 6 + feature + fixbugs 7
+hotfix 6 + feature + fixbugs 7 + feature 4
